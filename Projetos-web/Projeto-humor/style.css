@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Poppins',sans-serif;
+
 }
 body {
     background:linear-gradient(-45deg,#3d0863,#aebaf8,#8728b3);
@@ -52,6 +53,7 @@ h2 {
     font-family: 'Poppins',sans-serif;
     text-transform: uppercase;
     font-size: 14px;
+    font-weight: bold;
 
     width: 13vw;
     padding: 10px;
